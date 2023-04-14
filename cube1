@@ -1,0 +1,25 @@
+<html>
+<head>
+	<title>Ma page moche</title>
+</head>
+<body bgcolor="pink">
+	<center>
+		<table bgcolor="yellow" border="10" cellpadding="20" cellspacing="10" width="80%">
+			<tr>
+				<td bgcolor="red" width="33%">
+					<h1><font color="blue">Titre 1</font></h1>
+					<p><font color="green">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus semper nulla eget nibh fringilla fringilla. Fusce eu ligula vel libero elementum vestibulum eu non velit. Nullam at hendrerit velit. Nunc varius eleifend erat, euismod euismod dolor interdum vel.</font></p>
+				</td>
+				<td bgcolor="orange" width="33%">
+					<h2><font color="purple">Titre 2</font></h2>
+					<p><font color="brown">Phasellus eget sodales elit. Praesent suscipit, magna quis consectetur porttitor, nisl nibh hendrerit sapien, sit amet hendrerit odio lacus a ante. Integer rhoncus malesuada odio non egestas. Suspendisse malesuada mauris sed mi volutpat, sed lobortis velit faucibus. Donec in malesuada lectus. </font></p>
+				</td>
+				<td bgcolor="cyan" width="33%">
+					<h3><font color="magenta">Titre 3</font></h3>
+					<p><font color="black">Nam nec malesuada velit, vitae egestas purus. Nam iaculis, lacus nec malesuada suscipit, magna tellus vestibulum lacus, eget sagittis tortor enim non metus. Praesent eu ultrices felis. Fusce bibendum metus vitae velit imperdiet tristique. Pellentesque non sapien vel elit tempor blandit.</font></p>
+				</td>
+			</tr>
+		</table>
+	</center>
+</body>
+</html>
